@@ -1,6 +1,6 @@
 # Circle Recommendations API
 
-Given a Lean In member, return a ranked list of Circles she should join and a
+Given a Lean In member, return a ranked list of Circles she should join and a 
 short reason for each one.
 
 Built with Python 3.11, FastAPI and SQLite. The design write-up is in

@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/Manohar8142/API.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "claude/task-understanding-production-plqzfa"]
+	remote = origin
+	merge = refs/heads/claude/task-understanding-production-plqzfa
+	vscode-merge-base = origin/claude/task-understanding-production-plqzfa
