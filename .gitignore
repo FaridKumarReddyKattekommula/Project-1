@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+# generated SQLite database (rebuilt by `make seed`)
+var/
+
+.env
+.DS_Store
